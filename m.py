@@ -1,0 +1,3 @@
+
+name = 'mukund'
+print(name)
